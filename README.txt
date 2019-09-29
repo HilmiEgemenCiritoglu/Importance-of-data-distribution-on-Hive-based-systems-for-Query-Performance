@@ -4,5 +4,5 @@ This repository includes customised configs for the TPC-H_on_Hive benchmarks whi
 
 For TPC-H_on_Hive benchmark, the following link can be used: [TPC-H-Hive](https://github.com/rxin/TPC-H-Hive).
 
-H. Egemen Ciritoglu
-hilmi.egemen.ciritoglu@ucdconnect.ie
+Hilmi Egemen Ciritoglu
+firsname.middlename.lastname@ucdconnect.ie
